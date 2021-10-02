@@ -1,0 +1,65 @@
+E:\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+E:\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+E:\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+E:\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Guna.UI.dll
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csprojAssemblyReference.cache
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.Form1.resources
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CopyComplete
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.ProductForm.resources
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.CategoryForm.resources
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.SellerForm.resources
+E:\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.SellingForm.resources
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\bin\Debug\Guna.UI.dll
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.CategoryForm.resources
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.Form1.resources
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.ProductForm.resources
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.SellerForm.resources
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.SellingForm.resources
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CopyComplete
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+E:\17JulyOffice\TRAINING .NET\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+D:\Training Assignment Projects\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+D:\Training Assignment Projects\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+D:\Training Assignment Projects\Supermarket\Supermarket\bin\Debug\Guna.UI.dll
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.CategoryForm.resources
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.Form1.resources
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.ProductForm.resources
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.SellerForm.resources
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.SellingForm.resources
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CopyComplete
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+D:\Training Assignment Projects\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+D:\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.Dashboard.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.AssemblyReference.cache
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.exe
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.pdb
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\bin\Debug\Supermarket.exe.config
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\bin\Debug\Supermarket.exe
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\bin\Debug\Supermarket.pdb
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.CategoryForm.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.Dashboard.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.Form1.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.ProductForm.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.Properties.Resources.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.SellerForm.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.SellingForm.resources
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.GenerateResource.cache
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CoreCompileInputs.cache
+C:\Users\ar8i38c\Downloads\Training Assignment Projects\Supermarket\Supermarket\obj\Debug\Supermarket.csproj.CopyComplete
