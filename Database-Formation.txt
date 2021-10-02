@@ -1,0 +1,89 @@
+CREATE TABLE [dbo].[SellerTbl] (
+    [SellerId]     INT           NOT NULL,
+    [SellerName]   NVARCHAR (50) NOT NULL,
+    [SellerAge]    INT           NOT NULL,
+    [SellerMobile] NVARCHAR (50) NOT NULL,
+    [SellerPass]   NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([SellerId] ASC)
+);
+1	Anant	22	987654321	1111
+2	Saini	25	908765123	2222
+
+
+
+CREATE TABLE [dbo].[ProductTbl] (
+    [ProdId]    INT           NOT NULL,
+    [ProdName]  NVARCHAR (50) NOT NULL,
+    [ProdQty]   INT           NOT NULL,
+    [ProdPrice] INT           NOT NULL,
+    [ProdCat]   NVARCHAR (50) NOT NULL,
+    PRIMARY KEY CLUSTERED ([ProdId] ASC)
+);
+1	Shirt	34	2400	Clothing
+2	Floor Cleaner	29	550	Grocery
+3	Denims	44	3500	Clothing
+4	Vitamins B12	56	2200	Medicine
+5	HandCare Savlon	102	130	Medicine
+6	Watch	204	7800	Clothing
+7	Oral Care	89	220	Grocery
+8	HeadLights	350	5000	Automobiles
+9	Feminine Care	100	300	Medicine
+10	WeightLoss	40	1300	Medicine
+11	Sunglasses	280	2700	Clothing
+12	Wallet	70	3100	Clothing
+13	Air Freshner	112	250	Grocery
+14	Namkeen	330	75	Grocery
+15	Britania Bread	50	35	Grocery
+16	PowerBank	70	2900	Electronics
+17	Laptop	30	55000	Electronics
+18	Mobile	50	78000	Electronics
+
+
+
+
+
+CREATE TABLE [dbo].[CategoryTbl] (
+    [CatId]   INT            NOT NULL,
+    [CatName] NVARCHAR (50)  NOT NULL,
+    [CatDesc] NVARCHAR (100) NOT NULL,
+    PRIMARY KEY CLUSTERED ([CatId] ASC)
+);
+1001	Clothing	Shirt,Tshirt,Denims all wearable accesories
+1002	Grocery	Veggies, Fresh Juices, Liquids and other Home accessories 
+1003	Medicine	Vitamins, Minerals, Antiacid, AntiBacterials med, Neccessary Meds ect
+1004	Electronics	All electronics items like mobile , printer, smart gadgets etc
+1005	Automobiles	Headlights, Reflectors, Sterring Wheels, Front Glass, Rear Leds etc
+
+
+
+
+CREATE TABLE [dbo].[BillTbl] (
+    [BillId]     INT           NOT NULL,
+    [SellerName] NVARCHAR (50) NOT NULL,
+    [BillDate]   NVARCHAR (50) NOT NULL,
+    [TotAmt]     INT           NOT NULL,
+    PRIMARY KEY CLUSTERED ([BillId] ASC)
+);
+1	Welcome, Anant	19/8/2021	15502
+2	Welcome, Anant	19/8/2021	170062
+
+
+
+
+CREATE TABLE [dbo].[ExpenseTbl] (
+    [ExpId]   INT            IDENTITY (1, 1) NOT NULL,
+    [ExpName] NVARCHAR (50)  NOT NULL,
+    [ExpAmt]  INT            NOT NULL,
+    [ExpCat]  NVARCHAR (50)  NOT NULL,
+    [ExpDate] DATE           NOT NULL,
+    [ExpDesc] NVARCHAR (120) NOT NULL,
+    [ExpUser] NVARCHAR (20)  NOT NULL,
+    PRIMARY KEY CLUSTERED ([ExpId] ASC)
+);
+2	Burgur	450	Food	9/27/2021	The Burgur Club 	Saini
+1002	Rennovation	13000	Household	2/25/2021	Home rennovation	Anant
+1003	The Big Chill Cafe	2700	Food	6/21/2021	Party at The Big Chill Cafe	Anant
+
+
+
+
